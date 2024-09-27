@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CLP2Prova1B2/static/css/main.d221dc40.css",
+    "main.js": "/CLP2Prova1B2/static/js/main.f30f5cea.js",
+    "static/media/Eleicoes-2024.png": "/CLP2Prova1B2/static/media/Eleicoes-2024.76d146dfa608a3c512b4.png",
+    "index.html": "/CLP2Prova1B2/index.html",
+    "main.d221dc40.css.map": "/CLP2Prova1B2/static/css/main.d221dc40.css.map",
+    "main.f30f5cea.js.map": "/CLP2Prova1B2/static/js/main.f30f5cea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.f30f5cea.js"
+  ]
+}
